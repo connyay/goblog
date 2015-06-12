@@ -1,0 +1,2 @@
+# goblog
+Learning Go, IDK
